@@ -1,4 +1,4 @@
 scoobie
 =======
 
-Noodlejs based scraper goodness
+Node.js based scraper goodness
