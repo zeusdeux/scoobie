@@ -13,7 +13,7 @@
     "express": "~4.2.0",
     "jsdom": "^0.11.0",
     "morgan": "~1.0.0",
-    "noodlejs": "^0.3.0",
+    "request": "^2.36.0",
     "static-favicon": "~1.0.0"
   },
   "devDependencies": {
