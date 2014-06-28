@@ -2,3 +2,4 @@ test.json
 test_q*
 *.sublime*
 node_mo*
+**/*.log
